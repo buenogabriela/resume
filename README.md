@@ -1,9 +1,8 @@
 # Guilherme Stella
 
-📧 eng.guilhermestella@gmail.com  
-📞 +40 0722 750 662  
-📍 Bucharest, Romania  
-🔗 https://www.linkedin.com/in/guilherme-stella
+eng.guilhermestella@gmail.com | +40 0722 750 662 | Bucharest, Romania | linkedin.com/in/guilherme-stella
+
+---
 
 ## Summary
 
