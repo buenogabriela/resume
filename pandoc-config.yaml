@@ -1,9 +1,6 @@
 pdf-engine: xelatex
 output-file: README.pdf
 
-metadata:
-  title: "Resume - Guilherme Stella"
-
 variables:
   mainfont: "DejaVu Sans"
   fontsize: 10pt

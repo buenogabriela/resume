@@ -16,13 +16,13 @@
 
 ### Skills
 
-- **Languages & Frameworks:** Java (8–17), Spring (Boot, Batch), Jakarta EE  
-- **Frontend:** JavaScript, TypeScript, Angular, React  
-- **Architecture:** Microservices, Distributed Systems  
-- **Messaging:** Kafka, ActiveMQ  
-- **Databases & Caching:** PostgreSQL, Oracle, MongoDB, Redis, Solr, Infinispan  
-- **Cloud & DevOps:** AWS, Kubernetes, Docker, CI/CD, GitFlow  
-- **Monitoring:** New Relic, Splunk  
+- Languages & Frameworks: Java (8–17), Spring (Boot, Batch), Jakarta EE  
+- Frontend: JavaScript, TypeScript, Angular, React  
+- Architecture: Microservices, Distributed Systems  
+- Messaging: Kafka, ActiveMQ  
+- Databases & Caching: PostgreSQL, Oracle, MongoDB, Redis, Solr, Infinispan  
+- Cloud & DevOps: AWS, Kubernetes, Docker, CI/CD, GitFlow  
+- Monitoring: New Relic, Splunk  
 
 ## Experience
 
