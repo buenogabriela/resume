@@ -1,0 +1,37 @@
+name: Generate README PDF
+
+on:
+  push:
+    paths:
+      - README.md
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            pandoc \
+            texlive-latex-recommended \
+            texlive-fonts-recommended \
+            texlive-latex-extra
+
+      - name: Generate PDF from README.md
+        run: |
+          pandoc README.md \
+            --pdf-engine=xelatex \
+            -V mainfont="DejaVu Sans" \
+            -V geometry:margin=1in \
+            -o README.pdf
+
+      - name: Upload PDF as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: README.pdf
+          path: README.pdf
