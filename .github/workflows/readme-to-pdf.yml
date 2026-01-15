@@ -33,8 +33,18 @@ jobs:
             -V geometry:margin=1in \
             -o README.pdf
 
-      - name: Upload PDF as artifact
-        uses: actions/upload-artifact@v4
+      - name: Create or update GitHub Release
+        uses: softprops/action-gh-release@v1
         with:
-          name: README.pdf
-          path: README.pdf
+          tag_name: ${{ github.sha }}
+          name: "README PDF"
+          body: "Automatically generated PDF of README.md"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload PDF to Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: README.pdf
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
