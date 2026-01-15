@@ -1,9 +1,26 @@
 pdf-engine: xelatex
-output-file: README.pdf
+standalone: true
 
 variables:
-  mainfont: "DejaVu Sans"
-  monofont: "DejaVu Sans Mono"
-  geometry: "margin=1in"
+  # Professional ATS-safe fonts (XeLaTeX only)
+  mainfont: "Helvetica"
+  fontsize: 11pt
+
+  # Tight but readable margins
+  geometry:
+    - top=0.5in
+    - bottom=0.5in
+    - left=0.6in
+    - right=0.6in
+
+  # Remove page numbers for a 1-page resume
   header-includes: |
     \pagestyle{empty}
+    \usepackage{titlesec}
+    \titlespacing*{\section}{0pt}{12pt}{8pt}
+    \titlespacing*{\subsection}{0pt}{8pt}{4pt}
+
+  # Spacing and Links
+  linestretch: 1.15
+  colorlinks: true
+  urlcolor: blue

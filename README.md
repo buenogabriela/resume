@@ -5,8 +5,6 @@ Phone: +40 0722 750 662
 Location: Bucharest, Romania  
 LinkedIn: [linkedin.com/in/guilherme-stella](https://www.linkedin.com/in/guilherme-stella)
 
----
-
 ## Summary
 
 - Software Engineer with **7+ years** of experience in **Java, Spring, Jakarta EE, and Microservices**
