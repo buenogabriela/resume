@@ -36,18 +36,12 @@ jobs:
             -V geometry:margin=1in \
             -o README.pdf
 
-      - name: Create or update GitHub Release
-        uses: softprops/action-gh-release@v1
+      - name: Create and Upload to Release
+        uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ github.sha }}
-          name: "README PDF"
-          body: "Automatically generated PDF of README.md"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Upload PDF to Release
-        uses: softprops/action-gh-release@v1
-        with:
+          tag_name: pdf-build-${{ github.run_number }}
+          name: "README PDF (Build ${{ github.run_number }})"
+          body: "Automatically generated PDF from the latest README.md"
           files: README.pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
