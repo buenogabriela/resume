@@ -4,14 +4,13 @@ output-file: README.pdf
 
 metadata:
   title: "Resume - Guilherme Stella"
-
-header-includes: |
-  \pagestyle{empty}
-  \usepackage{enumitem}
-  \setlist[itemize]{noitemsep, topsep=2pt, parsep=2pt, partopsep=0pt, leftmargin=*} 
-  \usepackage{titlesec}
-  \titleformat{\section}{\large\bfseries\uppercase}{}{0pt}{}[\titlerule]
-  \titlespacing*{\section}{0pt}{12pt}{8pt}
+  header-includes: |
+    \pagestyle{empty}
+    \usepackage{enumitem}
+    \setlist[itemize]{noitemsep, topsep=2pt, parsep=2pt, partopsep=0pt, leftmargin=*} 
+    \usepackage{titlesec}
+    \titleformat{\section}{\large\bfseries\uppercase}{}{0pt}{}[\titlerule]
+    \titlespacing*{\section}{0pt}{12pt}{8pt}
 
 variables:
   mainfont: "Helvetica"
