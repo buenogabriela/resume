@@ -83,4 +83,3 @@
 ### Centro Universitário Católico Salesiano Auxilium (UniSALESIANO)  
 **Bachelor’s Degree — Computer Engineering**  
 2011 – 2015
-
