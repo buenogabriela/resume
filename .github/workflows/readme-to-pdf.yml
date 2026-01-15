@@ -5,6 +5,9 @@ on:
     paths:
       - README.md
 
+permissions:
+  contents: write
+
 jobs:
   build-pdf:
     runs-on: ubuntu-latest
