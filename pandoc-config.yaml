@@ -1,0 +1,9 @@
+pdf-engine: xelatex
+output-file: README.pdf
+
+variables:
+  mainfont: "DejaVu Sans"
+  monofont: "DejaVu Sans Mono"
+  geometry: "margin=1in"
+  header-includes: |
+    \pagestyle{empty}

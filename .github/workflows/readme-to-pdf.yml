@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - README.md
+      - pandoc-config.yaml
 
 permissions:
   contents: write
@@ -28,13 +29,7 @@ jobs:
 
       - name: Generate PDF from README.md
         run: |
-          pandoc README.md \
-            --pdf-engine=xelatex \
-            -V mainfont="DejaVu Sans" \
-            -V monofont="DejaVu Sans Mono" \
-            -V header-includes='\pagestyle{empty}' \
-            -V geometry:margin=1in \
-            -o README.pdf
+          pandoc README.md --defaults pandoc-config.yaml
 
       - name: Create and Upload to Release
         uses: softprops/action-gh-release@v2
