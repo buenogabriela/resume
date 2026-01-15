@@ -8,12 +8,20 @@ on:
 jobs:
   build-pdf:
     runs-on: ubuntu-latest
-    container:
-      image: pandoc/latex:latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Install Pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            pandoc \
+            texlive-xetex \
+            texlive-latex-recommended \
+            texlive-fonts-recommended \
+            texlive-latex-extra
 
       - name: Generate PDF from README.md
         run: |
