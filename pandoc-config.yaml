@@ -1,5 +1,6 @@
 pdf-engine: xelatex
 standalone: true
+output-file: README.pdf
 
 metadata:
   title: "Resume - Guilherme Stella"
