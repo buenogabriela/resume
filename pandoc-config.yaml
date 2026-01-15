@@ -1,6 +1,9 @@
 pdf-engine: xelatex
 standalone: true
 
+metadata:
+  title: "Resume - Guilherme Stella"
+
 variables:
   # Professional ATS-safe fonts (XeLaTeX only)
   mainfont: "Helvetica"
