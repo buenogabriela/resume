@@ -1,84 +1,95 @@
-# Guilherme Stella
+# Gabriela Bueno
 
-**Location:** Bucharest, Romania | **Phone:** +40 722 750 662  
-**Email:** [eng.guilhermestella@gmail.com](mailto:eng.guilhermestella@gmail.com)  
-**LinkedIn:** [linkedin.com/in/guilherme-stella](https://www.linkedin.com/in/guilherme-stella)
+**Tech Support @ Lauth**  
+Bucharest, Romania
+
+## Contact
+
+- 📱 +40 733 239 407
+- 📧 bueno.gabriela@outlook.com.br
+- 💼 https://www.linkedin.com/in/gabbueno/
 
 ## Summary
 
-- Software Engineer with **7+ years** of experience in **Java, Spring, Jakarta EE, and Microservices**
-- Strong background in **Backend and Fullstack development** (Java, Angular, React)
-- Experience with **cloud platforms and distributed systems** (AWS, Kubernetes, Docker, Kafka)
-- Proven skills in **system migration, performance optimization, and scalable architecture**
-- **Dual citizenship**: Brazilian & Italian (EU work eligibility)
+My career started in Brazil, where I built my experience across different industries, including global companies like Volkswagen and Nestlé. These roles gave me a solid background in financial analysis and business operations.
 
-## Skills
-
-- **Languages & Frameworks:** Java (8–17), Spring (Boot, Batch), Jakarta EE
-- **Frontend:** JavaScript, TypeScript, Angular, React
-- **Architecture:** Microservices, Distributed Systems
-- **Messaging:** Kafka, ActiveMQ
-- **Databases & Caching:** PostgreSQL, Oracle, MongoDB, Redis, Solr, Infinispan
-- **Cloud & DevOps:** AWS, Kubernetes, Docker, CI/CD, GitFlow
-- **Monitoring:** New Relic, Splunk
+Today, I work as a Technical Support & Customer Success Analyst at Lauth, providing technical support via chat and virtual meetings, managing support requests through CRM and ticketing platforms, and collaborating with the Product team on customer feedback.
 
 ## Experience
 
-### rinf.tech — Software Engineer  
-**Jul 2022 – Present**
+### Technical Support & Customer Success
+**Lauth**  
+**Jul 2025 – Present**  
+Romania
 
-- Migrated project from **Java 8 → Java 17** and **Java EE 8 → Jakarta EE 11**
-- Updated core dependencies (Hibernate, Shiro, Arquillian)
-- Led regression testing and compatibility validation
-- Migrated process automation from **JBPMN → Spring Batch**
-- Improved batch processing performance and system scalability
+- Provide technical support via chat and online meetings.
+- Manage and document support tickets in CRM systems.
+- Ensure efficient support operations.
+- Collaborate with the Product team by sharing strategic user feedback.
+- Prepare commercial proposals for new activations and plan upgrades.
 
-**Stack:** Java, Jakarta EE, Spring, Spring Batch, Angular, MongoDB, Solr, Infinispan, AWS, Microservices, MySQL, TypeScript
+---
 
-### PagBank — Software Engineer  
-**Jan 2022 – Jul 2022**
+### Administrative Assistant
+**Volkswagen**  
+**Dec 2021 – Jul 2022**  
+Araçatuba, Brazil
 
-- Worked on **EDI systems** handling large-scale data in distributed microservices
-- Increased integration test coverage while reducing execution time
-- Optimized streaming pipelines using multi-threading
+- Streamlined office operations.
+- Managed calendars, meetings, and travel arrangements.
+- Facilitated internal communication.
+- Supported cross-functional projects.
+- Coordinated vendors and procurement activities.
 
-**Stack:** Java, Spring, ActiveMQ, Kafka, PostgreSQL, Oracle, MongoDB, Redis, Kubernetes, Microservices, Spring Batch
+---
 
-### DB1 Group — Software Engineer  
-**May 2021 – Dec 2021**
+### Finance Intern
+**Nestlé**  
+**Oct 2019 – Nov 2021**  
+São Paulo, Brazil
 
-- Fullstack development for **Predize** (Customer Service Center for Marketplaces)
-- Integrated with major Brazilian marketplace APIs
-- Designed microservices with asynchronous messaging and caching
+- Supported audits and internal controls.
+- Assisted with capital expenditure analysis.
+- Participated in financial planning, budgeting, and forecasting.
+- Assisted with month-end closing activities.
+- Supported continuous process improvement initiatives.
 
-**Stack:** Java, Spring, React, PostgreSQL, MongoDB, Redis, Messaging Queues, Microservices
+---
 
-### Salutem — Software Engineer  
-**Jan 2019 – Apr 2021**
+### Administrative Assistant
+**AGGA**  
+**Jan 2018 – Jun 2019**  
+Araçatuba, São Paulo, Brazil
 
-- Developed a **Digital Signer** using **X.509 certificates** under ICP-BRASIL standards
-- Built monolithic healthcare applications
-- Implemented **GitFlow** and **CI/CD pipelines**
-- Integrated systems with Brazilian public health platforms
-
-**Stack:** Java, Spring, Angular, GitFlow, CI/CD
-
-### GS Inima Brasil — Information Technology Supervisor  
-**Oct 2013 – Dec 2018**
-
-- Managed IT team covering software and infrastructure
-- Led ERP migration from **Protheus → SAP**
-- Achieved **ISO certifications** and cross-border system integrations
-- Oversaw contracts, people management, training, and network expansion
-- Maintained and customized internal CRM systems
-
+- Performed financial and accounting activities in a hospital environment.
+- Processed invoices and reconciled accounts.
+- Prepared financial reports.
+- Supported budgeting and cost control.
+- Assisted with accounts payable and receivable.
+- Maintained financial records and compliance with internal procedures.
 
 ## Education
 
-### Estácio  
-**Postgraduate Degree — Computer Software Engineering**  
-2018 – 2019
+### Universidade Paulista (UNIP)
 
-### Centro Universitário Católico Salesiano Auxilium (UniSALESIANO)  
-**Bachelor’s Degree — Computer Engineering**  
-2011 – 2015
+**Bachelor of Business Administration (BBA)**  
+Business Administration and Management  
+**Jun 2017 – Jun 2021**
+
+## Top Skills
+
+- Post-Sales Support
+- Product Support
+- Enterprise Resource Planning (ERP)
+
+## Languages
+
+- Portuguese — Native
+- Spanish — Limited Working Proficiency
+- English — Limited Working Proficiency
+
+## Certifications
+
+- How to Develop Team Communication
+- Customer Communications Management
+- Leadership, Learning Ability and Resilience (Malala & Karnal)
