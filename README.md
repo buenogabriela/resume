@@ -1,7 +1,7 @@
 # Gabriela Bueno
 
 **Tech Support @ Lauth**  
-Bucharest, Romania
+Bucharest, Romania 
 
 ## Contact
 
