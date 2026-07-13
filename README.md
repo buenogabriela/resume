@@ -1,13 +1,13 @@
 # Gabriela Bueno
 
 **Tech Support @ Lauth**  
-Bucharest, Romania 
+Bucharest, Romania
 
 ## Contact
 
-- 📱 +40 733 239 407
-- 📧 bueno.gabriela@outlook.com.br
-- 💼 https://www.linkedin.com/in/gabbueno/
+**Location:** Bucharest, Romania | **Phone:** +40 733 239 407  
+**Email:** [bueno.gabriela@outlook.com.br](mailto:bueno.gabriela@outlook.com.br)  
+**LinkedIn:** [linkedin.com/in/gabbueno](https://www.linkedin.com/in/gabbueno/)
 
 ## Summary
 
